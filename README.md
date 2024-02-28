@@ -75,3 +75,6 @@ Nest is [MIT licensed](LICENSE).
 
 #levantar proyecto
 pnpm run start: dev
+
+#ahora se levanta con yarn
+yarn start:dev
